@@ -1,4 +1,4 @@
-📌 ## Complete Data Analytics Portfolio Project: End-to-End Industry-Standard Analysis of Customer Shopping Trends
+📌 # Complete Data Analytics Portfolio Project: End-to-End Industry-Standard Analysis of Customer Shopping Trends
 
 This project is a complete, industry-standard data analytics portfolio project that demonstrates an end-to-end analysis of customer shopping trends using real-world retail data. It showcases how SQL, Python, and Power BI are used together to build a scalable analytics pipeline—from raw data ingestion to business-ready insights and interactive dashboards.
 
@@ -9,7 +9,7 @@ This project is perfect for:
 - 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
 
 
-🛠️ ## Tech Stack
+🛠️ # Tech Stack
 
 - Database: MySQL
 - Query Language: SQL
@@ -17,7 +17,7 @@ This project is perfect for:
 -  Visualization & Reporting: Power BI
 -  Environment: Jupyter Notebook
 
-🚀 ## How to Use This Project
+🚀 # How to Use This Project
 Clone the repository
 
 git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
